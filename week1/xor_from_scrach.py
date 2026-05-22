@@ -81,6 +81,7 @@ def back_prop(X, Y):
         if (epoch % 1000 == 0):
             print(f"mse_loss in epoch:{epoch} is {np.mean((predicted-Y)**2)}")
     print(f"the values of w1={w1}, b1={b1}, w2={w2}, b2={b2}")
+    print(f"the final predicted values are {predicted}")
 
 X = np.array([[0, 0], 
               [0, 1], 

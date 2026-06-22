@@ -68,7 +68,7 @@ class EEGNet(nn.Module):
         return x
     
 
-model = EEGNet()
-output = model(X)
-print(f"Output Tensor Shape: {output.shape}")
-print(output)
+#model = EEGNet()
+#output = model(X)
+#print(f"Output Tensor Shape: {output.shape}")
+#print(output)

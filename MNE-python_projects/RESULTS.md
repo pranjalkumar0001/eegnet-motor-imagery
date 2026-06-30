@@ -1,9 +1,7 @@
 # Results
 
 This file documents the actual progression of experiments in this repo — including the failures, since the failures are most of what I learned from. Each phase corresponds to scripts in `MNE-python_projects/`.
-
-> **Note:** Fill in the exact run date / commit for each result below before treating this as final. Numbers should be reproducible by re-running the corresponding script.
-
+Results last verified by re-running phases 1, 2, 3, and 5 on 30-jun-2026.
 ## Summary
 
 | Phase | Approach | Evaluation | Accuracy | Outcome |
